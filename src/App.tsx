@@ -40,6 +40,7 @@ function App() {
             initial={{ opacity: 0, y: 20 }}
             animate={{ opacity: 1, y: 0 }}
             transition={{ delay: 0.4 }}
+
             className="text-xl text-gray-600 mb-12"
           >
             Experience crystal-clear video meetings with advanced collaboration tools that bring your team closer than ever before.
